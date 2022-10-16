@@ -1,0 +1,13 @@
+[package]
+name = "r-bustub"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+libc = "0.2.134"
+lazy_static = "1.4.0"
+rand = "0.8.5"
+bytemuck = "1.12.1"
+
